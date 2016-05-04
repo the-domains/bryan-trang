@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.8485703
+  lightness: 0.98422
+  brandStrength: 0.4688507
+  brandColors:
+    - '#181220'
+    - '#FBEEF7'
+    - '#A48872'
+    - '#D1A4F7'
+    - '#365C93'
+  rhythmicContrast: 1
+typography_spectrum: 0.9362096
+name: Bryan Trang
